@@ -47,6 +47,8 @@ The game checks:
 
 * Built using **Tkinter Buttons & Labels**
 * Color-coded interface
+<img width="356" height="399" alt="image" src="https://github.com/user-attachments/assets/99a049fd-42b9-4397-9590-6113626226f6" />
+
 
 ## Reset Function
 
